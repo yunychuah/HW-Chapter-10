@@ -3,7 +3,7 @@ import PayrollDeductionClass as b
 
 def main():
 
-    employee = a.Employee('Jimmy Smith','58475','Information Systems','Developer',6800)
+    employee = a.Employee('Jimmy Smith','58475','Information Systems','Developer',6800.00)
     deductions = [b.payroll_deduction('food court','8/14/2022',22.50,'39119') 
     ,b.payroll_deduction('gift contribution','8/12/2022',25.00,'58475')
     ,b.payroll_deduction('food court','8/17/2022',15.25,'21547')

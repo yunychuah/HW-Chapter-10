@@ -1,1 +1,10 @@
-myvenv/
+.myvenv/
+BankAccountClass.py
+BankAccountProgram.py
+Cellphone_test.py
+cellphone.py
+CoinClass.py
+CoinToss.py
+insectclass.py
+insectprogram.py
+

@@ -32,6 +32,6 @@ class Employee:
         print('Name:',self.__name)
         print('ID Number:',self.__id)
         print('Department:',self.__department)
-        print('Gross Pay:',self.__salary)
+        print('Gross Pay: $',self.__salary)
     
     
